@@ -1,0 +1,27 @@
+
+-----------------------La Gran Biblioteca, codigo:2522 Direccion: AA.VV.Telefono978453112-------------------------
+
+Usuario: Arli  Gonzales 72640971 arli.gonzales@unas.edu.pe  947952312  Codigo de usuario:0020220064
+LIBROS PRESTADOS:
+Titulo :Conocimiento Fisico, codigo_libro:0054122 categoria: Filosofia  autor:  Artur baltazar 
+------------------------------------------------------------------------------------
+Usuario:  Moraima  Perez  78542361 Moraima.Perez@unas.edu.pe  9634852  Codigo de usuario:0020212545
+LIBROS PRESTADOS:
+Titulo :Algebra basica, codigo_libro:0314552 categoria: Matematicas  autor:  Maria Piña 
+Titulo :Ingles intermedio, codigo_libro:0065321 categoria: lengua  autor:  I.E. UNAS 
+------------------------------------------------------------------------------------
+Usuario:  Marlon  Campos  63259841 Marlon.Campos@unas.edu.pe 98413255  Codigo de usuario:0020203285
+LIBROS PRESTADOS:
+Titulo :Matematica II, codigo_libro:0089455 categoria: Matematica  autor:  Salomon 
+Titulo :Las relaciones personales, codigo_libro:0045896 categoria: Filosofia  autor:  Sara Riche 
+------------------------------------------------------------------------------------
+Usuario:  Maria  Lopez  74253164 Maria.Lopez@unas.edu.pe  98652314  Codigo de usuario:0020224512
+LIBROS PRESTADOS:
+Titulo :Conocimiento Fisico, codigo_libro:0054122 categoria: Filosofia  autor:  Artur baltazar 
+------------------------------------------------------------------------------------
+Usuario:  Daniel  Salas  7854123 Daniel.Salas@unas.edu.pe  96587999  Codigo de usuario:0020203698
+LIBROS PRESTADOS:
+Titulo :Algebra basica, codigo_libro:0314552 categoria: Matematicas  autor:  Maria Piña 
+Titulo :Las relaciones personales, codigo_libro:0045896 categoria: Filosofia  autor:  Sara Riche 
+Titulo :Ingles intermedio, codigo_libro:0065321 categoria: lengua  autor:  I.E. UNAS 
+------------------------------------------------------------------------------------

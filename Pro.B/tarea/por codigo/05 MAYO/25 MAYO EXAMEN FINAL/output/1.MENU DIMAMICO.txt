@@ -1,0 +1,13 @@
+
+	Motorin 	 AA.VV VILLA PALMAS 	 N: 974953614
+-----------------------------------------------------
+
+Reportaremos lo siguiente: 
+
+-Los servicios del taller 
+-Empelado y tiempo de ejecucion del servicio 
+-Clientes semanales y recurrentes 
+-Stock de productos 
+-Repuestos vencidos 
+
+-----------------------------------------------------

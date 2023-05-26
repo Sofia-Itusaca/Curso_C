@@ -1,0 +1,15 @@
+	Restaurante EL SABROSO, direcion: AV.SIEMPRE VIVA 142
+************************************
+*El menu es: 
+1-Juane.... $15.... Nro platos:4
+2-Tacacho con Cecina.... $35.... Nro platos:2
+3-Ceviche.... $42.... Nro platos:3
+4-Lomo saltado.... $25.... Nro platos:5
+5-Pollo a la Parrilla.... $25.... Nro platos:3
+
+ *Tenemos 17 platos en total. 
+
+ordeno: 2 platos de -Tacacho con Cecina.... $35.... Nro platos:2
+Nro de platos restantes es: 15El plato esta siendo llevado por el conductor
+Pagara $70
+************************************

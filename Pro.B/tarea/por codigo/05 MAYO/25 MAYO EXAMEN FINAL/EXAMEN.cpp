@@ -1,0 +1,32 @@
+/*
+Se tiene una tienda de motos “Motorin”, la cual se dedica a la venta de motos y repuestos,
+
+la empresa tiene problemas de stock, siempre le falta repuesto o tiene repuesto que no vende porque
+está escondido, así mismo la empresa cuenta con un taller especializado que se realizan diferentes
+trabajos,
+
+-se quiere saber cuales son los servicios de taller que mas realiza                              <<<<<<<
+
+-el tiempo que les lleva a sus empleados en ejecutarlo                                           <<<<<<<
+
+-la empresa también desea saber quienes son sus clientes mas comunes para                        <<<<<<<
+establecer una campaña de fidelización y marqueteo.
+
+
+1. Elabore el diagrama de clases → 3ptos                                                          <<<<<<<
+
+2. Implemente los métodos básicos para cada entidad → 3ptos  "get y set"                          <<<<<<<
+
+3. Elabore los métodos necesarios para el problema → 3ptos                                        <<<<<<<
+
+4. Implemente un reporte para ver el stock de productos por fecha de registro, cantidad y         <<<<<<<
+categoría → 3ptos
+
+5. Implemente un reporte de los servicios realizados por el taller, quien lo realiza y que tiempo <<<<<<<
+le toma, así mismo de los repuestos vendidos en el servicio → 3ptos
+
+6. Implemente un reporte de los clientes comunes y el consumo por fecha → 3ptos                   <<<<<<<
+
+7. Elabore un menú dinámico → 2ptos
+
+*/

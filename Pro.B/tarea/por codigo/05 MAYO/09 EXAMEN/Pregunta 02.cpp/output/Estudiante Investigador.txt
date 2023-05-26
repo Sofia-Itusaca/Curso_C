@@ -1,0 +1,18 @@
+
+----------------------Estudiante Investigador-------------------------
+Estudiente: Jose Rodriguez Dias 23 años, Facultad: FIME , semestre: SEGUNDO 
+Libros publicados: 1 , Especialidad: Circuitos Electricos 
+----------------------------------------------------------------------
+
+Estudiente: Ariana Tello Mendoza 25 años, Facultad: ZOO , semestre: PRIMERO 
+Libros publicados: 2 , Especialidad: Biologia General.  ,  Circulo de la Ciencia. 
+----------------------------------------------------------------------
+
+Estudiente: Junior Espinoza Salcedo 22 años, Facultad: CSA , semestre: SEGUNDO 
+Libros publicados: 3 , Especialidad: Filosofia de matematicas  ,  Biologia II.  ,  Analisis matematico. 
+----------------------------------------------------------------------
+
+Estudiente: Rojas Perez Ivana 26 años, Facultad: RNR , semestre: TERCERO 
+Libros publicados: 2 , Especialidad: Teoria de lo preciso  ,  El conocimiento.
+----------------------------------------------------------------------
+

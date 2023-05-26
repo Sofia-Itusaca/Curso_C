@@ -1,0 +1,55 @@
+------------------------------------------------------------------------------
+
+	EMPRESA: 	Motorin 	 AA.VV VILLA PALMAS 	 N: 974953614
+
+	REPORTES SOLICITADOS: 
+
+------------------------------------------------------------------------------
+
+EMPLEADO Y TIEMPO DAL DAR EL SERVICIO:
+
+1. Juan Ramoz Dias  	 Realiza: Cambio de aceite   	 Demora: 25 min
+2. Arnol Silvestre Bell	 Realiza: Limpieza de moto  	 Demora: 2H
+3. David Carrion Gomez	 Realiza: Cambio de camara  	 Demora: 1H 30 min
+4. Mario Matos Reyes	 Realiza: Engrazado de cadena	 Demora: 10 min
+5. Alex Campos Perez	 Realiza: Ajuste de frenos  	 Demora: 30 min
+
+------------------------------------------------------------------------------
+
+CLIENTES SEMANALES: 
+
+- Ariana Megia Rey   	 Compras semanales: 3
+- Martin Reyes Flor 	 Compras semanales: 10
+- Cleste Mora Diaz   	 Compras semanales: 1
+- Julio Montez Villar 	 Compras semanales: 7
+- Carlos Lozano Ball 	 Compras semanales: 6
+
+------------------------------------------------------------------------------
+
+CLIENTES RECURRENTES: 
+
+- Martin Reyes Flor 	 Compras semanales: 10
+- Julio Montez Villar 	 Compras semanales: 7
+- Carlos Lozano Ball 	 Compras semanales: 6
+
+------------------------------------------------------------------------------
+
+STOCK DE PRODUCTOS: 
+
+- F.Ingreso: 12/04/2020 	 Aceite	 Ubicado: Almacen 1	 N: 2000	S/: 15	Se vendio: 550
+- F.Ingreso: 01/07/2020 	 Camara	 Ubicado: Almacen 3	 N: 1500	S/: 50	Se vendio: 411
+- F.Ingreso: 10/08/2020 	 Cadena	 Ubicado: Almacen 2	 N: 1200	S/: 45	Se vendio: 80
+- F.Ingreso: 02/10/2020 	 Frenos	 Ubicado: Almacen 1	 N: 5000	S/: 25	Se vendio: 428
+- F.Ingreso: 04/12/2020 	 Motor 	 Ubicado: Almacen 3	 N: 2000	S/: 99	Se vendio: 510
+
+------------------------------------------------------------------------------
+
+REPUESTOS VENDIDOS: 
+
+- Aceite	Sobran: 1450	De: 2000	Ubicado: Almacen 1
+- Camara	Sobran: 1089	De: 1500	Ubicado: Almacen 3
+- Cadena	Sobran: 1120	De: 1200	Ubicado: Almacen 2
+- Frenos	Sobran: 4572	De: 5000	Ubicado: Almacen 1
+- Motor 	Sobran: 1490	De: 2000	Ubicado: Almacen 3
+
+------------------------------------------------------------------------------
